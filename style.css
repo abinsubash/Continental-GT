@@ -1,0 +1,1639 @@
+
+.page1{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.body1{
+    margin: 0;
+}
+.hedder1{
+    height: 73px;
+    width: 100%;
+    background-color: black;
+}
+.h1c1{
+    height: 100%;
+    width: 200px;
+    margin-left: 30px;
+    float: left;
+  
+}
+
+.h1c2{
+    height: 66px;
+    width: 103px;
+    float: left;
+    margin-left: 185px;
+}
+.h1t1:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.h1t1{
+   padding-top: 24px;
+   font-size: 14px;
+   color: white;
+   float: left;
+}
+.h1c3{
+    height: 66px;
+    width: 67px;
+    float: left;
+}
+.arrow1{
+    margin-top: 29px;
+    margin-left: 5px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow2{
+    margin-top: 29px;
+    margin-left: 5px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow3{
+    margin-top: 29px;
+    margin-left: 5px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow4{
+    margin-top: 29px;
+    margin-left: 5px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow5{
+    margin-top: 31px;
+    margin-left: 7px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow6{
+    margin-left: 5px;
+    margin-bottom: 2px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 2.5px;
+    transform: rotate(45deg);
+}
+.arrow1:hover{
+    cursor: pointer;
+}
+.arrow2:hover{
+    cursor: pointer;
+}
+.arrow3:hover{
+    cursor: pointer;
+}
+.arrow4:hover{
+    cursor: pointer;
+}
+.arrow5:hover{
+    cursor: pointer;
+}
+.h1t2:hover{
+    color: red;
+    cursor: pointer;
+}
+.h1t3:hover{
+    color: red;
+    cursor: pointer;
+}
+.h1t4:hover{
+    color: red;
+    cursor: pointer;
+}.h1t5:hover{
+    color: red;
+    cursor: pointer;
+}
+.h1t6:hover{
+    color: red;
+    cursor: pointer;
+}
+.h1t7:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t1:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t2:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t3:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t4:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t5:hover{
+    color: red;
+    cursor: pointer;
+}
+.h2t6:hover{
+    color: red;
+    cursor: pointer;
+}
+.h1c9:hover{
+    cursor: pointer;
+    
+}
+.h1c10:hover{
+    cursor: pointer;
+
+}
+.h1c11:hover{
+    cursor: pointer;
+
+}
+.h1c12:hover{
+    cursor: pointer;
+
+}
+.h1t2{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c4{
+    height: 66px;
+    width: 82px;
+    float: left;
+}
+.h1t3{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c5{
+    height: 66px;
+    width: 70px;
+    float: left;
+}
+.h1t4{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c6{
+    height: 66px;
+    width: 98px;
+    float: left;
+}
+.h1t5{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c7{
+    height: 66px;
+    width: 78px;
+    float: left;
+}
+.h1t6{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c8{
+    height: 66px;
+    width: 88px;
+    float: left;
+}
+.h1t7{
+    padding-top: 24px;
+    padding-left: 10px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c9{
+    height: 70px;
+    width: 62px;
+    float: left;
+    margin-left: 85px;
+}
+.login{
+    padding-top: 27px;
+    padding-left: 7px;
+    float: left;
+    font-size: 14px;
+    color: white;
+}
+.h1c10{
+    width: 29px;
+    height: 69px;
+    float:  left;
+}
+.searchicon{
+    height: 22px;
+    width: 22px;
+    margin-top: 24px;
+}
+.h1c11{
+    height: 68px;
+    width: 30px;
+    float: left;
+    margin-left: 10px;
+}
+.h1c12{
+height: 20px;
+width: 40px;
+float: left;
+margin-top: 25px;
+margin-left: 2px;
+}
+.logo1{
+    height: 27px;
+    width: 200px;
+    margin-top: 25px;
+}
+.flag{
+    height:32px;
+    width: 32px;
+    padding-top: 20px;
+}
+.language{
+    color: white;
+}
+.hedder2{
+height: 56px;
+width: 100%;
+top: 0;
+background-color:#212121;
+}
+.arrow7{
+    margin-left: 7px;
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 4px;
+    margin-top: 13px;
+    transform: rotate(-45deg);
+}
+.arrow8{
+    margin-left: 6px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3.5px;
+    margin-top: 13px;
+    transform: rotate(-45deg);    
+}
+.arrow9{
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(-45deg);
+    margin-top: 15px;
+    margin-left: 7px;
+    
+}
+.arrow10{
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(-45deg);
+    margin-left: 5px;
+}
+.continantal{
+    float: left;
+    color: white;
+    font-size: 25px;
+    margin-left: 34px;
+    margin-top: 12px;
+    font-weight: bold;
+}
+.h2c1{
+    height: 55px;
+    width: 85px;
+    float: left;
+    margin-left: 20px;
+}
+.h2c2{
+    margin-top: 23px;
+    height: 40px;
+    margin-left: 10px;
+    width: 2px;
+    float: left;
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 10px;
+    
+}
+.h2t1{
+    color: white;
+    float: left;
+    font-size: 18px;
+    padding-top: 16px;
+    padding-left: 10px;
+
+}
+.h2c3{
+   height: 54px;
+   width:131px;
+   float: left;
+}
+.h2t2{
+    color: white;
+    font-size: 17px;
+    float: left;
+    padding-top: 17px;
+    padding-left: 26px;
+}
+.h2c4{
+    height: 10px;
+    width: 2px;
+    float: left;
+    margin-top: 22px;
+    border-left: 2px solid white;
+}
+.h2c5{
+    height: 54px;
+    width: 119px;
+    float: left;
+    margin-left: 22px;
+}
+.h2t3{
+color: white;
+float: left;
+padding-top: 17px;
+}
+.h2c6{
+    height: 10px;
+    width: 2px;
+    float: left;
+    margin-top: 23px;
+    border-left: 3px solid white;
+    margin-left: 13px;
+}
+.h2c7{
+    height: 54px;
+    width: 105px;
+    float: left;
+}
+.h2t4{
+    float: left;
+    font-size: 17px;
+    color: white;
+    padding-top: 17px;
+    padding-left: 17px;
+}
+.h2c8{
+    margin-top: 22px;
+    height: 10px;
+    float: left;
+    width: 2px;
+    border-left: 2px solid white;
+}
+.h2c9{
+    width: 107px;
+    height: 54px;
+    float: left;
+}
+.h2t5{
+    color: white;
+    float: left;
+    margin-left: 20px;
+    padding-top: 18px;
+}
+.h2c10{
+    float: left;
+    width: 2px;
+    height: 10px;
+    margin-top: 23px;
+    border-left: 2px solid white;
+}
+.h2c11{
+    height: 54px;
+    width: 70px;
+    float: left;
+}
+.h2t6{
+    color: white;
+    float: left;
+    margin-top: 18px;
+    margin-left: 22px;
+}
+.h2c12{
+    height: 34px;
+    float: left;
+    width: 165px;
+    background-color: white;
+    margin-top: 12px;
+}
+.h2t7{
+    float: left;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-top: 6px;
+    font-weight: bold;
+}
+.h2c13{
+    height: 34px;
+    width: 173px;
+    float: left;
+    background-color: red;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.h2t8{
+    float: left;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.hedder3{
+height: 33px;
+width: 100%;
+top: 56px;
+background-color: #212121;
+}
+.h3c1{
+    height: 30px;
+    width: 37px;
+    margin-left: -190px;
+    float: left;
+}
+.home{
+    height: 22px;
+    width: 22px;
+    margin-top: 7px;
+    float: left;
+}
+.h3c2{
+    float: left;
+    height: 20px;
+    width: 110px;
+    margin-top: 7px;
+    margin-left: -150px;
+}
+.h3t1{
+    color: white;
+    font-weight: bold;
+    padding-left: 5px;
+}
+.h3c3{
+    height: 18px;
+    width: 110px;
+    float: left;
+    margin-left: -40px;
+    margin-top: 8px;
+}
+.h3t2{
+    color: white;
+    font-weight: bold;
+
+}
+.image1{
+    height: 100%;
+    width: 100%;
+}
+.page2{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}
+.image2{
+    height: 100%;
+    width: 100%;
+}
+.p2c1{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    bottom: 90%;
+    margin: 0 auto;
+    margin-right: 110px;
+    margin-top: 77px;
+}
+.page3{
+    height: 100%;
+    width: 100%;
+margin-top: 45.9%;
+position: absolute;
+overflow: hidden;
+}
+.image3{
+    width: 100%;
+    height: 100%;
+}
+.p3c1{
+    height: 180px;
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 73%;
+    margin-right: 125px;
+}
+.page4{
+    height: 100%;
+    width: 100%;
+    margin-top: 91%;
+    overflow: hidden;
+    position: absolute;
+
+}
+.image4{
+    height: 100%;
+    width: 100%;
+}
+.p4c1{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 74%;
+    margin: 0 auto;
+    margin-right: 135px;
+}
+.page5{
+    height: 100%;
+    width: 100%;
+    margin-top: 136%;
+    position: absolute;
+    overflow: hidden;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/desktop/ton-of-fun.jpg);
+    background-size: cover;
+}
+.p5c1{
+    height: 230px;
+    width: 340px;
+    margin: auto;
+    margin-right: 90px;
+    margin-top :195px;
+}
+.page6{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 182%;
+}
+.p6c1{
+    height: 40px;
+    width: 200px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.p6t1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.p6c2{
+    margin-top: 30px;
+    margin-left: 70px;
+    height: 440px;
+    width: 1120px;
+    border-left: 1.4px solid black;
+    border-right: 1.4px solid black;
+}
+.p6s1{
+    height: 100px;
+    width: 352px;
+    margin-left: 80px;
+    float: left;
+    margin-top:20px;
+}
+.p6t2{
+    font-size: 25px;
+    margin-top: 1px;
+    font-weight: bold;
+    color: rgb(240, 5, 5);
+}
+.p6t3{
+    margin-top: -10px;
+    font-weight: bold
+}
+.p6s2{
+    height: 300px;
+    width: 580px;
+    float: left;
+    margin-left: -360px;
+    margin-top: 150px;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/new/highlights/led-headlamp.jpg);
+    background-size: cover;
+}
+.p6s3{
+    height: 440px;
+    width: 110px;
+    float: left;
+    margin-left: 30px;
+    border-left: 1.4px solid black;
+    border-right: 1.4px solid black;
+}
+.p6s4{
+    height: 440px;
+    width: 110px;
+    float: left;
+    border-right: 1.4px solid black;
+}
+.p6s5{
+    height: 440px;
+    width: 100px;
+    float: left;
+    border-right: 1.4px solid black;
+}
+.p6s6{
+    height: 440px;
+    width: 100px;
+    float: left;
+}
+.p6t4{
+    height: 70px;
+    width: 200px;
+    margin-top: 270px;
+    margin-left: -40px;
+    transform: rotate(270deg);
+}
+.p6t4{
+    height: 70px;
+    width: 200px;
+    margin-top: 270px;
+    margin-left: -40px;
+    transform: rotate(270deg);
+}
+.p6t5{
+    height: 70px;
+    width: 250px;
+    margin-top: 250px;
+    margin-left: -60px;
+    transform: rotate(270deg);
+}
+.p6t6{
+    height: 70px;
+    width: 200px;
+    margin-top: 270px;
+    margin-left: -40px;
+    transform: rotate(270deg);
+}
+.p6t7{
+    height: 70px;
+    width: 250px;
+    margin-top: 250px;
+    margin-left: -60px;
+    transform: rotate(270deg);
+}
+.page7{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 250, 250);
+    position: absolute;
+    margin-top: 230%;
+}
+.p7c1{
+    height: 70px;
+    width: 300px;
+    margin-top: 75px;
+    margin-left: 70px;
+}
+.p7c2{
+  height: 260px;
+  width: 500px;
+  margin-left: 60px;
+  background-size: cover;
+  background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/new/colours/studio-shots/slipstream-blue/slipstream_blue_033.png);  
+}
+.p7c3{
+    height: 20px;
+    width: 40px;
+    margin-left: 290px;
+    margin-top: 10;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/meteor/icons/360.png);
+}
+.p7c4{
+    height: 20px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 170px;
+}
+.p7c5{
+height: 70px;
+width: 250px;
+float: right;
+margin-right: 320px;
+margin-top: -360px;
+}
+.p7t1{
+    font-size: 24px;
+    font-weight:bold;
+}
+.p7c6{
+        height: 70px;
+        width: 250px;
+        float: right;
+        margin-right: 320px;
+        margin-top: -300px;
+}
+.p7t2{
+    margin-top: -10px;
+}
+.p7c7{
+    height: 38px;
+    width: 230px;
+    background-color: red;
+    float: right;
+    margin-right: 340px;
+    margin-top: -190px;
+}
+.p7t3{
+    color: white;
+    margin-top: 11px;
+    margin-left: 60px;
+    font-weight: bold;
+}
+.p7c8{
+    height: 37px;
+    width: 227px;
+    float: right;
+    margin-right: 340px;
+    margin-top: -140px;
+    border: 2px black solid;
+}
+.p7c8:hover{
+    background-color: black;
+}
+.p7t4:hover{
+    color: white;
+}
+.p7t4{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.p7c9{
+    height: 37px;
+    width: 227px;
+    float: right;
+    margin-right: 345px;
+    margin-top: -60px;
+}
+.p7t5{
+    font-size: 25px;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.p7c10{
+    height: 134px;
+    width: 500px;
+    float: right;
+    margin-top: -20px;
+    margin-right: 100px;
+}
+.p7s1{
+border: solid rgb(255, 112, 112);
+border-width: 0 2px 2px 0;
+padding: 5px;
+transform: rotate(135deg);
+float: left;
+margin-left: 20px;
+margin-top: 35px;
+}
+.p7s2{
+    height: 85px;
+    width: 113px;
+    float: left;
+    margin-left: 30px;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/new/colours/tanks/slipstream-blue.png);
+    background-size: contain;
+}
+.p7s3{
+    height: 85px;
+    width: 113px;
+    float: left;
+    margin-left: 20px;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/new/colours/tanks/apex-grey.png);
+    background-size: contain;
+}
+.p7s4{
+    height: 85px;
+    width: 113px;
+    float: left;
+    margin-left: 20px;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/new/colours/tanks/dux-dulux.png);
+    background-size: contain;
+}
+.p7s5{
+    border: solid rgb(255, 0, 0);
+    border-width: 0 2px 2px 0;
+    padding: 5px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.p7s6{
+    height: 25px;
+    width: 113px;
+    margin-left: 60px;
+    float: left;
+}
+.p7s7{
+    height: 25px;
+    width: 113px;
+    margin-left: 45px;
+    float: left;
+}
+.p7s8{
+    height: 25px;
+    width: 113px;
+    margin-left: 20px;
+    float: left;
+}
+.p7t6{
+    margin-top: 0px;
+    font-weight: bold
+}
+.p7t7{
+    margin-top: 0px;
+    font-weight: bold
+}
+.p7t8{
+    margin-top: 0px;
+    font-weight: bold
+}
+.page8{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(223, 97, 97);
+    position: absolute;
+    margin-top: 275%;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/desktop/make-it-yours.jpg);
+    background-size: cover;
+}
+.p8c1{
+    height: 200px;
+    width: 340px;
+    margin: auto;
+    margin-right: 90px;
+    margin-top :195px;
+}
+.p8c2{
+    height: 34px;
+    width: 165px;
+    background-color: white;
+}
+.p8t1{
+    padding: 4%;
+    font-weight: bold;
+}
+.arrow11{
+    margin-left: 120px;
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    padding: 4px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -36px;
+}
+
+.h4c1{
+    height: 50px;
+    width: 250px;
+    margin: auto;   
+    overflow: hidden;
+}
+.h4t1{
+    font-size: 28px;
+    margin-top: 10px;
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+.page9{
+height: 360px;
+width: 100%;
+position: absolute;
+margin-top: 320%;
+
+}
+.hedder4{
+    width: 100%;
+    height: 60px;
+    background-color: #212121;
+}
+.image5{
+height: 309px;
+width: 100%;
+background-size:cover;
+background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/continental-gt/media-review/desktop/overdrive.jpg);
+}
+.p9c1{
+    height: 120px;
+    width: 350px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.p9c2{
+    height: 35px;
+    width: 140px;
+    background-color: rgb(255, 0, 0);
+    float: right;
+    margin-top: -70px;
+    margin-right: 260px;
+}
+.p9c3{
+    height: 34px;
+    width: 170px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    margin-top: -73px;
+    margin-right: 80px;
+}
+.arrow12{
+    margin-left: 115px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3.5px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -15px;
+}
+.arrow13{
+    margin-left: 140px;
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    padding: 3.5px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -13px;
+}
+.page10{
+    width: 100%;
+    height: 1060px;
+    background-color: red;
+    margin-top: 320%;
+}
+.hedder5{
+    width: 100%;
+    height: 60px;
+    margin-top: 359px;
+    background-color: #212121;
+    float: left;
+}
+.p10s1{
+    height: 59px;
+    width: 150px;
+    margin: auto;
+}
+.p10c1{
+    height: 320px;
+    float: left;
+    width: 320px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-1.jpg);
+}
+.p10c2{
+    height: 320px;
+    float: left;
+    width: 320px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-2.jpg)
+}
+
+.p10c3{
+    height: 320px;
+    float: left;
+    width: 320px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-3.jpg)
+}
+
+.p10c4{
+    height: 320px;
+    float: left;
+    width: 303px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-4.jpg)
+}
+
+.p10c5{
+    height: 320px;
+    width: 320px;
+    float: left;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-5.jpg)
+}
+.p10c6{
+    height: 320px;
+    width: 320px;
+    float: left;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-6.jpg)
+}
+
+.p10c7{
+    height: 320px;
+    width: 312px;
+    float: left;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-7.jpg)
+}
+
+.p10c8{
+    height: 320px;
+    width: 311px;
+    float: left;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/gallery/gallery-8.jpg)
+}
+.page11{
+width: 100%;
+height: 600px;
+background-color: red;
+margin-top: -1px;
+}
+
+.hedder6{
+    width: 100%;
+    height: 60px;
+    background-color: #212121;
+    float: left;
+    
+}
+.p11s1{
+    height: 55px;
+    width: 250px;
+    margin: auto;
+}
+.p11c2{
+    width: 100%;
+    height: 610px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/continental-gt/banner/new/desktop/gear-up.jpg)
+}
+.p11c3{
+    height: 230px;
+    width: 340px;
+    float: right;
+    margin-top: 140px;
+    margin-right: 70px;
+}
+.p11s2{
+    height: 35px;
+    width: 140px;
+    float: right;
+    border: solid 1px;
+    margin-right: 195px;
+    margin-top: 13px;
+
+}
+.arrow14{
+    margin-left: 115px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3.5px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -13px;
+}
+.page12{
+    width: 100%;
+    height: 500px;
+    background-color: red;
+    margin-top: -1px;
+    }
+    
+.hedder7{
+    width: 100%;
+  height: 60px;
+  background-color: #212121;
+    float: left;
+    margin-top: -60px;
+        
+}
+.p12s1{
+    height: 55px;
+    width: 250px;
+    margin: auto;
+}
+.p12c2{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-image: url(https://www.royalenfield.com/content/dam/royal-enfield/india/gt-cup-2023/banners/main-banner-2023.png)
+}
+.arrow15{
+    margin-left: 70px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3.5px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -13px;
+}
+.p12s2{
+    height: 35px;
+    width: 100px;
+    float: right;
+    margin-right: 280px;
+    margin-top: 404px;
+    background-color: red;
+
+}
+.page13{
+    height: 600px;
+    width: 100%;
+    background-color: red;
+}
+.p131{
+    height: 600px;
+    width: 450px;
+    background-color: black;
+    float: left;
+}
+.p132{
+    height: 600px;
+    width: 813px;
+    background-color: #d5d5d5;
+    float: left;
+}  
+.p13c1{
+    height: 40px;
+    width: 300px;
+    margin-top: -6px;
+    margin-left: 70px;
+
+}
+.p13c2{
+    height: 40px;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.p13c3{
+    height: 50px;
+    width: 300px;
+    margin-top: -20px;
+    margin-left: 70px;
+    border-bottom: solid 2px rgb(255, 255, 255);
+}
+.arrow16{
+    margin-left: 70px;
+    border: solid rgb(255, 0, 0);
+    border-width: 0 2px 2px 0;
+    padding: 3px;
+    transform: rotate(-45deg);
+    float: right;
+    margin-right: 0px;
+    margin-top: -40px;
+}
+.p13c4{
+    width: 703px;
+    height: 75px;
+    margin: auto;
+    margin-top: 10px;
+}
+.p13c5{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: 10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.p13c6{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: -10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.p13c7{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: -10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.p13c8{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: -10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.p13c9{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top:- 10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.p13c10{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: -10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.arrow17{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow18{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow19{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow19{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow20{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow21{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.p13c11{
+    width: 703px;
+    height: 45px;
+    margin: auto;
+    margin-top: -10px;
+    border-bottom: solid 2px rgb(0, 0, 0);
+}
+.arrow22{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.arrow23{
+    border: solid rgb(0, 0, 0);
+    border-width: 0 2px 2px 0;
+    float: right;
+    padding: 4px;
+    transform: rotate(45deg);
+    margin-right: 10px;
+    margin-top: -30px;
+}
+.page14{
+    width: 100%;
+    height: 147px;
+    background-color: #212121;
+}
+.p14c1{
+    width: 336px;
+    height: 126px;
+    float: left;
+    margin-left: 94px;
+    margin-top: 20px;
+}
+.p14c2{
+    width: 330px;
+    height: 126px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.p14c3{
+    width: 331px;
+    height: 126px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 65px;
+}
+.image6{
+    opacity: .5;
+    width: 60px;
+    height: auto;
+    margin-left: 117px;
+
+}
+.p14t1{
+    margin-left: 100px;
+    color: white;
+    opacity: .5;
+}
+.p14t1:hover{
+    color: red;
+}
+.arrow24{
+    margin-left: 70px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -30px;
+    margin-left: 220px;
+    opacity: .5;
+}
+.image7{
+    opacity: .5;
+    width: 55px;
+    height: auto;
+    margin-left: 130px;
+    margin-top: 2px;
+
+}
+.image8{
+    opacity: .5;
+    width: 60px;
+    height: auto;
+    margin-left: 117px;
+}
+.p14t2{
+   padding-left: 120px;
+    color: white;
+    opacity: .5;
+}
+.p14t2:hover{
+    color: red;
+}
+.p14t3{
+    margin-left: 100px;
+    color: white;
+    opacity: .5;
+}
+.p14t3:hover{
+    color: red;
+}
+.arrow25{
+    margin-left: 70px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -28px;
+    margin-left: 220px;
+    opacity: .5;
+}
+.arrow26{
+    margin-left: 70px;
+    border: solid rgb(255, 255, 255);
+    border-width: 0 2px 2px 0;
+    padding: 3px;
+    transform: rotate(-45deg);
+    float: left;
+    margin-top: -28px;
+    margin-left: 210px;
+    opacity: .5;
+}
+.footer{
+    width: 100%;
+    height: 600px;
+    background-color: #d5d5d5;
+}
+.fc1{
+    width: 100%;
+    height: 90px;
+    background-color: #d5d5d5;
+    border-bottom: solid 1px black;
+}
+.fs1{
+    height: 40px;
+    width: 450px;
+    float: right;
+    margin-top: 30px;
+}
+
+.facebook{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-top: -39px;
+    margin-left: 150px;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/1051/1051309.png);
+    background-size: cover;
+}
+.twitter{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-left: 195px;
+    margin-top: -40px;
+    background-size: cover;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/5969/5969020.png);
+}
+.youtube{
+    width: 37px;
+    height: 33px;
+    float: left;
+    margin-top: -40px;
+    margin-left: 250px;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/1384/1384028.png);
+    background-size: cover;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-top: -40px;
+    margin-left: 305px;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/739/739193.png);
+    background-size: cover;
+}
+
+.likedin{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-top: -40px;
+    margin-left: 360px;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/3536/3536569.png);
+    background-size: cover;
+}
+.f1c2{
+    height: 457px;
+    width: 175px;
+    margin-left: 46px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1s1{
+    width: 145px;
+    height: 30px;
+    margin-top: 40px;
+    
+}
+.f1s2{
+    width: 145px;
+    height: 30px;
+    margin-top: 10px;
+
+}
+.f1s3{
+    width: 145px;
+    height: 30px;
+}
+.f1s4{
+    width: 145px;
+    height: 30px;
+}
+.f1s5{
+    width: 145px;
+    height: 30px;
+}
+.f1s6{
+    width: 145px;
+    height: 30px;
+}
+.f1s7{
+    width: 145px;
+    height: 30px;
+}
+.f1s8{
+    width: 145px;
+    height: 30px;
+}
+.f1s9{
+    width: 145px;
+    height: 30px;
+}
+.f1s10{
+    width: 145px;
+    height: 30px;
+}
+.f1s11{
+    width: 145px;
+    height: 30px;
+}
+.f1c3{
+    height: 457px;
+    width: 173px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1c4{
+    height: 457px;
+    width: 173px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1c5{
+    height: 457px;
+    width: 173px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1c6{
+    height: 457px;
+    width: 173px;
+    border-bottom: 1px solid;
+    float: left;
+}
+.f1c8{
+    height: 457px;
+    width: 175px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1c7{
+    height: 457px;
+    width: 175px;
+    float: left;
+    border-bottom: 1px solid;
+}
+.f1s12{
+    width: 145px;
+    height: 30px;
+    margin-top: 40px;
+}
+.f1s13{
+    width: 145px;
+    height: 30px;
+    margin-top: 10px;
+}
+.f1s14{
+    width: 145px;
+    height: 30px;
+}
+.f1s15{
+    width: 145px;
+    height: 30px;
+}
+.f1s16{
+    width: 115px;
+    height: 30px;
+}
+.p14c4{
+    height: 20px;
+    width: 360px;
+    margin-left: 50px;
+    float: left;
+}
+.p14c5{
+    height: 20px;
+    width: 360px;
+    margin-right: 50px;
+    margin-top: 10px;
+    float: right;
+}
